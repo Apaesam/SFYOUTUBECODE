@@ -1,2 +1,2 @@
-# SFYOUTUBECODE
+# SkillFoundryYouTubeRepository
 Skill Foundry YouTube code samples and demos
